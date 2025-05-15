@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "amKQYps8gMBdjxYCkmE1fOWJnUvwRXk3Tfz9J1YgTEU=",
+  "Source": "LemonApp",
+  "BasePath": "_content/LemonApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
